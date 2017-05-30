@@ -143,7 +143,7 @@ class MarkoviPy:
     def generate_sentence(self):
         """
         Returns a generic sentence using markov chains
-        
+
         :return: Generated sentence
         :rtype: str
         """
